@@ -1,0 +1,35 @@
+{
+  "images" : [
+    {
+      "filename" : "VecteezyBeauty_Nature_Landscape_BackgroundBackgroundAS082021_generated-1.pdf",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "light"
+        }
+      ],
+      "filename" : "VecteezyBeauty_Nature_Landscape_BackgroundBackgroundAS082021_generated.pdf",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "Mountain-Lake-Sunset-Landscape-First-Person-View.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
